@@ -6,7 +6,10 @@ NameProcessPlayer:здесь пишите название процесса ва
 
 
 [Profile0]
+
 YourBotTelegreamToken=здесь пишите токен вашего бота телеграм
+
 PatchOftePlayr=C:\\Program Files\\PotPlayer\\PotPlayerMini64
+
 NameProcessPlayer=PotPlayerMini64
 
